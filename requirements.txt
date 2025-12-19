@@ -3,6 +3,8 @@ transformers
 torch
 pillow
 pytesseract
+PyMuPDF
 pdfplumber
 sentencepiece
+
 numpy
