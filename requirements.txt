@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+pillow
+pytesseract
+pdfplumber
+sentencepiece
+numpy
