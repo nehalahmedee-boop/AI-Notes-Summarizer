@@ -4,7 +4,8 @@ torch
 pillow
 pytesseract
 PyMuPDF
+reportlab
 pdfplumber
 sentencepiece
-
 numpy
+
